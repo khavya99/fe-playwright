@@ -1,1 +1,1 @@
-# fe-playwright
+# playwright-practice
