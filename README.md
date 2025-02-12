@@ -19,3 +19,5 @@ Why Playwright ? - selenium is old.Not easy to write. Slow running.
                  
 Why playwright with typescript (over other programming languages)?
                               - Type script(TS) = JavaScript (JS) + More features + Static Typing
+
+.
